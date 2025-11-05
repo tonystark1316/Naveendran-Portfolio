@@ -3,7 +3,7 @@
 Welcome to my personal **portfolio website** built with HTML, CSS, and JavaScript.  
 This project is a showcase of my skills, background, and some of the awesome projects I've worked on.
 
-🔗 **Live Site**: [tonystark1316.github.io/My_Portfolio](https://tonystark1316.github.io/My_Portfolio/)
+🔗 **Live Site**: [tonystark1316.github.io/My_Portfolio](https://tonystark1316.github.io/Naveendran-Portfolio/)
 
 ---
 
